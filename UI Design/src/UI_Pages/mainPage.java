@@ -15,8 +15,8 @@ public class mainPage {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //LoginPage logp =new LoginPage();
-        //logp.setVisible(true);
+        LoginPage logp =new LoginPage();
+        logp.setVisible(true);
     }
     
 }
